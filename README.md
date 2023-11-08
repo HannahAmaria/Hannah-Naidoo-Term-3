@@ -17,7 +17,6 @@
     - [Installation](#installation)
 - [Concept Process](#concept-process)
     - [Ideation](#ideation)
-    - [Wireframes](#wireframes)
 - [Development Process](#development-process)
     - [Implementation Process](#implementation-process)
         - [Highlights](#highlights)
