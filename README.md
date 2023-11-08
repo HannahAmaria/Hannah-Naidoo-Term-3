@@ -108,7 +108,7 @@ The `Development Process` is the technical implementations and functionality don
 ![image3](assets/Mockup 3.jpg)
 
 ## Walkthrough
-<p>You can view the walkthrough video <a href="https://drive.google.com/file/d/1bXnhGWOkPspzfQw2hDUjvd8B9lrmeuqx/view?usp=sharing">here</a></p>
+<p>You can view the walkthrough video <a href="https://drive.google.com/file/d/1pjBiEPVqDRJb6B7GbhKfu-gYVtWHSAKE/view?usp=sharing">here</a></p>
 
 # Author
 
