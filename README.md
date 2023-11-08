@@ -102,11 +102,11 @@ The `Development Process` is the technical implementations and functionality don
 ## Mockups
 
 ### Home Page
-![image5](./Mockup1.jpg) 
+![image1](assets/Mockup 1.jpg) 
 ### Products Page
-![image6](./Mockup2.jpg)
+![image2](assets/Mockup 2.jpg)
 ### Individiual Products Page
-![image7](./Mockup3.jpg)
+![image3](assets/Mockup 3.jpg)
 
 ## Walkthrough
 <p>You can view the walkthrough video <a href="https://drive.google.com/file/d/1bXnhGWOkPspzfQw2hDUjvd8B9lrmeuqx/view?usp=sharing">here</a></p>
