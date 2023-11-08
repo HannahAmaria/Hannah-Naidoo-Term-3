@@ -3,15 +3,13 @@ import FeatureProduct from "./FeatureProduct";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Link } from "react-router-dom";
 import axios from "axios";
-import { useEffect, useState } from "react"; // Import useEffect and useState
+import { useEffect, useState } from "react";
 
 function Landing() {
-  const [products, setProducts] = useState([]); // State to store fetched products
+  const [products, setProducts] = useState([]); 
 
   useEffect(() => {
-    // Fetch products from your API here and set them in the state
-    // Example API call using Axios:
-    axios.get("http://localhost:5000/api/watchbands") // Replace with your API endpoint
+    axios.get("http://localhost:5000/api/watchbands") 
       .then((response) => {
         setProducts(response.data);
         console.log(response.data)
