@@ -3,7 +3,6 @@
 <h6 align="center">DV200 | Term 3</h6>
 
 <p align="center">
-  <a href="https://github.com/GlenDorner221358/Whirlpool"><img src="/client/Assets/Whirlpool.svg" width="200px"></a>
   <h3 align="center">Batch</h3>
   <p align="center">An ecommerce website that allows you to view and purchase various Apple Watch Bands.</p>
 </p>
