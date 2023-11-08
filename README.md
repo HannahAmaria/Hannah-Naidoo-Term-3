@@ -71,17 +71,6 @@ I went with a simple and minimalistic UI design. Batch is where users can view a
 
 I wanted to create a simple website where users can buy Apple Watch Bands.
 
-## Wireframes
-
-### Login
-![image1](./Wireframes/Login.jpeg)
-### Home/Landing
-![image2](./Wireframes/Home.jpeg)
-### Question
-![image3](./Wireframes/Question.jpeg)
-### Single Question
-![image4](./Wireframes/Single.jpeg)
-
 # Development Process
 
 The `Development Process` is the technical implementations and functionality done for the app.
@@ -113,11 +102,11 @@ The `Development Process` is the technical implementations and functionality don
 ## Mockups
 
 ### Home Page
-![image5](./assets/Mockup1.jpg) 
+![image5](./Mockup1.jpg) 
 ### Products Page
-![image6](./assets/Mockup2.jpg)
+![image6](./Mockup2.jpg)
 ### Individiual Products Page
-![image7](./assets/Mockup3.jpg)
+![image7](./Mockup3.jpg)
 
 ## Walkthrough
 <p>You can view the walkthrough video <a href="https://drive.google.com/file/d/1bXnhGWOkPspzfQw2hDUjvd8B9lrmeuqx/view?usp=sharing">here</a></p>
